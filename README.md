@@ -9,7 +9,9 @@
 <a href='https://keybase.io/kocumaza' target='_blank' rel='noopener'>
   <img src='https://img.shields.io/badge/Keybase-%23E3E049.svg?&style=for-the-badge&logo=Keybase&logoColor=black' alt='Keybase-Link'></a>
 <a href='https://www.youtube.com/channel/UCeeoSHJgNYaCaWuqJfIYlZg' target='_blank' rel='noopener'>
-  <img src='https://img.shields.io/badge/YouTube-%23ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white' alt='Twitter-Link'></a>
+  <img src='https://img.shields.io/badge/YouTube-%23ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white' alt='YouTube-Link'></a>
+<a href='https://www.pixiv.net/users/72676003'>
+  <img src='https://img.shields.io/badge/Pixiv-%23009dff.svg?&style=for-the-badge&logo=Pixiv&logoColor=white' alt='Pixiv-Link'></a>
 <a href='mailto://kocumaza@gmail.com'>
   <img src='https://img.shields.io/badge/Gmail-%23de5548.svg?&style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail-Link'></a>
 
